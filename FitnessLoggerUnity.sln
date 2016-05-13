@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{703E7CE2-1534-39FF-C7AA-D250011ACEA3}") = "FitnessLoggerUnity", "Assembly-CSharp-firstpass.csproj", "{A79EE945-1A91-C4BA-0A05-32015F9BC536}"
+EndProject
+Project("{703E7CE2-1534-39FF-C7AA-D250011ACEA3}") = "FitnessLoggerUnity", "Assembly-CSharp.csproj", "{16F30B6F-29DC-5911-CF5F-3A6C32AE9FEC}"
+EndProject
+Project("{703E7CE2-1534-39FF-C7AA-D250011ACEA3}") = "FitnessLoggerUnity", "Assembly-CSharp-Editor.csproj", "{D43BCB69-3B74-D7EB-36A3-D5986B009832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79EE945-1A91-C4BA-0A05-32015F9BC536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79EE945-1A91-C4BA-0A05-32015F9BC536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79EE945-1A91-C4BA-0A05-32015F9BC536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79EE945-1A91-C4BA-0A05-32015F9BC536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F30B6F-29DC-5911-CF5F-3A6C32AE9FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F30B6F-29DC-5911-CF5F-3A6C32AE9FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F30B6F-29DC-5911-CF5F-3A6C32AE9FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F30B6F-29DC-5911-CF5F-3A6C32AE9FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43BCB69-3B74-D7EB-36A3-D5986B009832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43BCB69-3B74-D7EB-36A3-D5986B009832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43BCB69-3B74-D7EB-36A3-D5986B009832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43BCB69-3B74-D7EB-36A3-D5986B009832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
